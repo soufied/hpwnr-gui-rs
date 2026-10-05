@@ -14,8 +14,8 @@ The app shells out to the `hpwnr` executable to perform the actual decrypt, encr
 ## Build and run
 
 ```bash
-git clone https://github.com/soufied/hpwner-gui-rs
-cd hpwner-gui-rs
+git clone https://github.com/soufied/hpwnr-gui-rs
+cd hpwnr-gui-rs
 cargo run --release
 ```
 
